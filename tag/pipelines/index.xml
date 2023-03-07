@@ -14,10 +14,19 @@
     
     <item>
       <title>Earl Grey</title>
-      <link>https://tobybaril.github.io/project/example/</link>
+      <link>https://tobybaril.github.io/project/earlgrey/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://tobybaril.github.io/project/example/</guid>
+      <guid>https://tobybaril.github.io/project/earlgrey/</guid>
       <description>&lt;p&gt;Earl Grey is a fully-automated TE annotation pipeline designed to leverage the most widely-used tools for TE annotation. It aims to improve on current methods by automated extra TE curation steps in an attempt to generate maximum-length TE consensus sequences to aid in classification and annotation of TEs in a diverse range of genomes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Docker Preconfigured Earl Grey</title>
+      <link>https://tobybaril.github.io/project/dockerearl/</link>
+      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tobybaril.github.io/project/dockerearl/</guid>
+      <description>&lt;p&gt;Earl Grey is a fully-automated TE annotation pipeline designed to leverage the most widely-used tools for TE annotation. It aims to improve on current methods by automated extra TE curation steps in an attempt to generate maximum-length TE consensus sequences to aid in classification and annotation of TEs in a diverse range of genomes. Here you can find a Docker image for Earl Grey preconfigured with Dfam 3.7 curated elements.&lt;/p&gt;
 </description>
     </item>
     
