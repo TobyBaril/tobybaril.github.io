@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>A New Chromosome-Assigned Mongolian Gerbil Genome Allows Characterization of Complete Centromeres and a Fully Heterochromatic Chromosome</title>
+      <link>https://tobybaril.github.io/publication/journal-article-20/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://tobybaril.github.io/publication/journal-article-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Earl Grey</title>
       <link>https://tobybaril.github.io/project/earlgrey/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
@@ -51,18 +59,10 @@
     </item>
     
     <item>
-      <title>Patterns of transposable element accumulation at resistance loci: a comparative genomic analysis in aphids</title>
+      <title>Transposon accumulation at xenobiotic gene family loci: a comparative genomic analysis in aphids</title>
       <link>https://tobybaril.github.io/publication/journal-article-18/</link>
       <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://tobybaril.github.io/publication/journal-article-18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The origin of a new chromosome in gerbils</title>
-      <link>https://tobybaril.github.io/publication/journal-article-11/</link>
-      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://tobybaril.github.io/publication/journal-article-11/</guid>
       <description></description>
     </item>
     
@@ -427,7 +427,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-618534729&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-358416792&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -437,7 +437,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-618534729&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-358416792&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
