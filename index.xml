@@ -34,9 +34,9 @@
     
     <item>
       <title>A New Chromosome-Assigned Mongolian Gerbil Genome Allows Characterization of Complete Centromeres and a Fully Heterochromatic Chromosome</title>
-      <link>https://tobybaril.github.io/publication/journal-article-20/</link>
+      <link>https://tobybaril.github.io/publication/journal-article-19/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://tobybaril.github.io/publication/journal-article-20/</guid>
+      <guid>https://tobybaril.github.io/publication/journal-article-19/</guid>
       <description></description>
     </item>
     
@@ -60,25 +60,25 @@
     
     <item>
       <title>Transposon accumulation at xenobiotic gene family loci: a comparative genomic analysis in aphids</title>
-      <link>https://tobybaril.github.io/publication/journal-article-18/</link>
-      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://tobybaril.github.io/publication/journal-article-18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genome-wide transcriptomic changes reveal the genetic pathways involved in insect migration</title>
       <link>https://tobybaril.github.io/publication/journal-article-17/</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://tobybaril.github.io/publication/journal-article-17/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The genome sequence of the scarce swallowtail, Iphiclides podalirius</title>
+      <title>Genome-wide transcriptomic changes reveal the genetic pathways involved in insect migration</title>
       <link>https://tobybaril.github.io/publication/journal-article-16/</link>
-      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://tobybaril.github.io/publication/journal-article-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The genome sequence of the scarce swallowtail, Iphiclides podalirius</title>
+      <link>https://tobybaril.github.io/publication/journal-article-15/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://tobybaril.github.io/publication/journal-article-15/</guid>
       <description></description>
     </item>
     
@@ -92,41 +92,41 @@
     
     <item>
       <title>Earl Grey: a fully automated user-friendly transposable element annotation and analysis pipeline</title>
-      <link>https://tobybaril.github.io/publication/journal-article-19/</link>
+      <link>https://tobybaril.github.io/publication/journal-article-18/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://tobybaril.github.io/publication/journal-article-19/</guid>
+      <guid>https://tobybaril.github.io/publication/journal-article-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The genome sequence of the lesser marbled fritillary, Brenthis ino, and evidence for a segregating neo-Z chromosome</title>
-      <link>https://tobybaril.github.io/publication/journal-article-15/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://tobybaril.github.io/publication/journal-article-15/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Myriapod genomes reveal ancestral horizontal gene transfer and hormonal gene loss in millipedes</title>
       <link>https://tobybaril.github.io/publication/journal-article-14/</link>
-      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://tobybaril.github.io/publication/journal-article-14/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Genome of the ramshorn snail Biomphalaria straminea—an obligate intermediate host of schistosomiasis</title>
+      <title>Myriapod genomes reveal ancestral horizontal gene transfer and hormonal gene loss in millipedes</title>
       <link>https://tobybaril.github.io/publication/journal-article-13/</link>
-      <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
       <guid>https://tobybaril.github.io/publication/journal-article-13/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Migrators within migrators: exploring transposable element dynamics in the monarch butterfly, Danaus plexippus</title>
+      <title>Genome of the ramshorn snail Biomphalaria straminea—an obligate intermediate host of schistosomiasis</title>
       <link>https://tobybaril.github.io/publication/journal-article-12/</link>
       <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://tobybaril.github.io/publication/journal-article-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Migrators within migrators: exploring transposable element dynamics in the monarch butterfly, Danaus plexippus</title>
+      <link>https://tobybaril.github.io/publication/journal-article-11/</link>
+      <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://tobybaril.github.io/publication/journal-article-11/</guid>
       <description></description>
     </item>
     
@@ -427,7 +427,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-358416792&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-253489167&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -437,7 +437,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-358416792&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-253489167&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
