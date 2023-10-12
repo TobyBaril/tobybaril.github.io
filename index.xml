@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>The genome and sex-dependent responses to temperature in the common yellow butterfly, Eurema hecabe</title>
+      <link>https://tobybaril.github.io/publication/journal-article-20/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://tobybaril.github.io/publication/journal-article-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A New Chromosome-Assigned Mongolian Gerbil Genome Allows Characterization of Complete Centromeres and a Fully Heterochromatic Chromosome</title>
       <link>https://tobybaril.github.io/publication/journal-article-19/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
@@ -427,7 +435,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-319685742&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-639487215&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -437,7 +445,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-319685742&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-639487215&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
