@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Transposon accumulation at xenobiotic gene family loci in aphids</title>
+      <link>https://tobybaril.github.io/publication/journal-article-17/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://tobybaril.github.io/publication/journal-article-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The genome and sex-dependent responses to temperature in the common yellow butterfly, Eurema hecabe</title>
       <link>https://tobybaril.github.io/publication/journal-article-20/</link>
       <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
@@ -64,14 +72,6 @@
       <guid>https://tobybaril.github.io/project/dockerearl/</guid>
       <description>&lt;p&gt;Earl Grey is a fully-automated TE annotation pipeline designed to leverage the most widely-used tools for TE annotation. It aims to improve on current methods by automated extra TE curation steps in an attempt to generate maximum-length TE consensus sequences to aid in classification and annotation of TEs in a diverse range of genomes. Here you can find a Docker image for Earl Grey preconfigured with Dfam 3.7 curated elements.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Transposon accumulation at xenobiotic gene family loci: a comparative genomic analysis in aphids</title>
-      <link>https://tobybaril.github.io/publication/journal-article-17/</link>
-      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://tobybaril.github.io/publication/journal-article-17/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -435,7 +435,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-639487215&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-247893165&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -445,7 +445,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-639487215&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-247893165&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
