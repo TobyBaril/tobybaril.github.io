@@ -42,11 +42,31 @@
     <lastmod>2023-05-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://tobybaril.github.io/tag/anaconda/</loc>
+    <lastmod>2023-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tobybaril.github.io/tag/bioconda/</loc>
+    <lastmod>2023-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://tobybaril.github.io/tag/bioinformatics/</loc>
     <lastmod>2023-03-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://tobybaril.github.io/tag/conda/</loc>
+    <lastmod>2023-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://tobybaril.github.io/project/earlgrey/</loc>
+    <lastmod>2023-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tobybaril.github.io/project/biocondaearl/</loc>
+    <lastmod>2023-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tobybaril.github.io/project/tutorialearl/</loc>
     <lastmod>2023-03-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -59,6 +79,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tobybaril.github.io/tag/transposable-elements/</loc>
+    <lastmod>2023-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tobybaril.github.io/tag/tutorial/</loc>
     <lastmod>2023-03-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

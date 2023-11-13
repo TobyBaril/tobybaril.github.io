@@ -66,6 +66,24 @@
     </item>
     
     <item>
+      <title>Earl Grey Conda Package</title>
+      <link>https://tobybaril.github.io/project/biocondaearl/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tobybaril.github.io/project/biocondaearl/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Now Available in Bioconda!&lt;/strong&gt; Earl Grey is a fully-automated TE annotation pipeline designed to leverage the most widely-used tools for TE annotation. It aims to improve on current methods by automated extra TE curation steps in an attempt to generate maximum-length TE consensus sequences to aid in classification and annotation of TEs in a diverse range of genomes. Easy to install using conda package management.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Earl Grey Tutorial</title>
+      <link>https://tobybaril.github.io/project/tutorialearl/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tobybaril.github.io/project/tutorialearl/</guid>
+      <description>&lt;p&gt;Want to learn how to use Earl Grey? Take a look at this tutorial and learn exactly what Earl Grey is doing at every step, and also gain an insight into how to run Earl Grey on your own genome assemblies! Earl Grey is a fully-automated TE annotation pipeline designed to leverage the most widely-used tools for TE annotation. It aims to improve on current methods by automated extra TE curation steps in an attempt to generate maximum-length TE consensus sequences to aid in classification and annotation of TEs in a diverse range of genomes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Docker Preconfigured Earl Grey</title>
       <link>https://tobybaril.github.io/project/dockerearl/</link>
       <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
@@ -435,7 +453,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-673492185&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-215786439&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -445,7 +463,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-673492185&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-215786439&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
