@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>The sensory shark: high-quality phenotypic, genomic and transcriptomic data for the small spotted catshark Scyliorhinus canicula reveal the molecular bases of sensory organ evolution in jawed vertebrates</title>
+      <link>https://tobybaril.github.io/publication/journal-article-23/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://tobybaril.github.io/publication/journal-article-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Earl Grey: a fully automated user-friendly transposable element annotation and analysis pipeline</title>
       <link>https://tobybaril.github.io/publication/journal-article-18/</link>
       <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
@@ -469,7 +477,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-726451398&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-863954271&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -479,7 +487,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-726451398&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-863954271&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
