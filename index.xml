@@ -35,7 +35,7 @@
     <item>
       <title>Genomic Signatures of Domestication in a Fungus Obligately Farmed by Leafcutter Ants</title>
       <link>https://tobybaril.github.io/publication/journal-article-24/</link>
-      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://tobybaril.github.io/publication/journal-article-24/</guid>
       <description></description>
     </item>
@@ -485,7 +485,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-876935421&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-182479365&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -495,7 +495,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-876935421&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-182479365&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
