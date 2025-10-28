@@ -33,6 +33,31 @@
     </item>
     
     <item>
+      <title>MycoMobilome</title>
+      <link>https://tobybaril.github.io/project/mycomobilome/</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://tobybaril.github.io/project/mycomobilome/</guid>
+      <description>&lt;p&gt;Transposable elements (TEs) are found in nearly all eukaryotic genomes. Despite significant advances in the sequencing of genomes, TE resources remain sparse, leading to a lack of traceability, reproducibility, and duplication of effort when annotating TEs. Here, we focus on the fungal kingdom and present MycoMobilome, a non-redundant database of TE consensus sequences systematically curated using a set of 4,309 genomes covering all major clades. The initial database contains 276,641 consensus sequences after filtering to remove putative host genes and low-quality consensus sequences. We provide a consistent naming convention to surface information on the confidence in the classification including potential conflicting ORF functions, along with metadata to enable evaluation of TEs of interest and to determine whether further curation work is required on a case-by-case basis. Finally, we provide guidelines for community contributions, and encourage researchers to deposit new or curated sequences, which will be incorporated into future MycoMobilome releases.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Genomic structure and life history variation of isofemale lineages of Myzus persicae with different levels of parasitization by Diaeretiella rapae</title>
+      <link>https://tobybaril.github.io/publication/journal-article-28/</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://tobybaril.github.io/publication/journal-article-28/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sub-lethal insecticide stress alters epimutation rate but not genetic mutation rate in the pest insect Myzus persicae</title>
+      <link>https://tobybaril.github.io/publication/journal-article-27/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://tobybaril.github.io/publication/journal-article-27/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hypermutator fungal pathogens: from threat to meltdown</title>
       <link>https://tobybaril.github.io/publication/journal-article-26/</link>
       <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
@@ -501,7 +526,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-927845316&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-495713862&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -511,7 +536,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-927845316&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-495713862&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

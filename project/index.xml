@@ -5,12 +5,21 @@
     <link>https://tobybaril.github.io/project/</link>
       <atom:link href="https://tobybaril.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tobybaril.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://tobybaril.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>MycoMobilome</title>
+      <link>https://tobybaril.github.io/project/mycomobilome/</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://tobybaril.github.io/project/mycomobilome/</guid>
+      <description>&lt;p&gt;Transposable elements (TEs) are found in nearly all eukaryotic genomes. Despite significant advances in the sequencing of genomes, TE resources remain sparse, leading to a lack of traceability, reproducibility, and duplication of effort when annotating TEs. Here, we focus on the fungal kingdom and present MycoMobilome, a non-redundant database of TE consensus sequences systematically curated using a set of 4,309 genomes covering all major clades. The initial database contains 276,641 consensus sequences after filtering to remove putative host genes and low-quality consensus sequences. We provide a consistent naming convention to surface information on the confidence in the classification including potential conflicting ORF functions, along with metadata to enable evaluation of TEs of interest and to determine whether further curation work is required on a case-by-case basis. Finally, we provide guidelines for community contributions, and encourage researchers to deposit new or curated sequences, which will be incorporated into future MycoMobilome releases.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Earl Grey</title>
