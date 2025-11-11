@@ -42,6 +42,14 @@
     </item>
     
     <item>
+      <title>MycoMobilome: A community-focused non-redundant database of transposable element consensus sequences for the fungal kingdom</title>
+      <link>https://tobybaril.github.io/publication/journal-article-29/</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://tobybaril.github.io/publication/journal-article-29/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Genomic structure and life history variation of isofemale lineages of Myzus persicae with different levels of parasitization by Diaeretiella rapae</title>
       <link>https://tobybaril.github.io/publication/journal-article-28/</link>
       <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
@@ -526,7 +534,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-197658234&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-257361984&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -536,7 +544,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-197658234&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-257361984&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
