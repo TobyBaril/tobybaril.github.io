@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Chromosome-scale genome assembly of the most abundant ectomycorrhizal fungus Cenococcum geophilum reveals massive TE expansion and RIP defence mechanism</title>
+      <link>https://tobybaril.github.io/publication/journal-article-31/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://tobybaril.github.io/publication/journal-article-31/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Evolution: Transposon traffic in the mycocosmos</title>
       <link>https://tobybaril.github.io/publication/journal-article-30/</link>
       <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
@@ -542,7 +550,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-651943728&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-942658317&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -552,7 +560,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-651943728&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-942658317&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
