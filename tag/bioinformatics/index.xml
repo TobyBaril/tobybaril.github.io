@@ -5,12 +5,21 @@
     <link>https://tobybaril.github.io/tag/bioinformatics/</link>
       <atom:link href="https://tobybaril.github.io/tag/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
     <description>Bioinformatics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tobybaril.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Bioinformatics</title>
       <link>https://tobybaril.github.io/tag/bioinformatics/</link>
     </image>
+    
+    <item>
+      <title>Earl Grey ParTEA</title>
+      <link>https://tobybaril.github.io/project/partea/</link>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://tobybaril.github.io/project/partea/</guid>
+      <description>&lt;p&gt;ParTEA (Pangenome Transposable Element Analysis) is a Snakemake-based pipeline that brings the party to multi-genome TE annotation! It extends EarlGrey to process multiple genomes in parallel, build pangenome TE libraries, and perform comparative transposable element analysis across species.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>MycoMobilome</title>

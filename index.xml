@@ -33,6 +33,15 @@
     </item>
     
     <item>
+      <title>Earl Grey ParTEA</title>
+      <link>https://tobybaril.github.io/project/partea/</link>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://tobybaril.github.io/project/partea/</guid>
+      <description>&lt;p&gt;ParTEA (Pangenome Transposable Element Analysis) is a Snakemake-based pipeline that brings the party to multi-genome TE annotation! It extends EarlGrey to process multiple genomes in parallel, build pangenome TE libraries, and perform comparative transposable element analysis across species.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>MycoMobilome: A community-focused non-redundant database of transposable element consensus sequences for the fungal kingdom</title>
       <link>https://tobybaril.github.io/publication/journal-article-29/</link>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
@@ -550,7 +559,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-342785961&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-231785469&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -560,7 +569,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-342785961&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-231785469&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
